@@ -1,0 +1,3 @@
+[submodule "isw"]
+	path = isw
+	url = https://github.com/YoyPa/isw.git
